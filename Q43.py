@@ -16,4 +16,4 @@ def main():
     print(f"Total number of Blanks in user entered string is {blanks}")
 main()
 
-print("Program by Diya Bhutani- 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
