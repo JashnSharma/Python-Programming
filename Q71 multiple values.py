@@ -5,4 +5,4 @@ def get_user_info():
 user_name, user_age = get_user_info()
 print(user_name)
 print(user_age)
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
