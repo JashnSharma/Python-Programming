@@ -11,4 +11,4 @@ else:
         else:
             comm="You are too small to learn python"
 print("At age:" +str(myAge)+ "->" + comm)
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
