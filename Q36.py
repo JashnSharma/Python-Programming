@@ -5,4 +5,4 @@ except ZeroDivisionError:
     print("Error: Cannot divide by 0")
 except ValueError:
     print("Error: Invalid input. Please enter a valid number")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
