@@ -9,5 +9,4 @@ def decorator_function(original_function):
 def display():
  print("Display function executed")
 display()
-print("Program by Diya Bhutani- 0221BCA041")
-
+print("Program by jashn sharma - 0221BCA048")
