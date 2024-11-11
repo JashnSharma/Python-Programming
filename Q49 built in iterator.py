@@ -3,6 +3,6 @@ my_list = [1, 2, 3, 4]
 it = iter(my_list)
 print(next(it)) # Outputs: 1
 print(next(it)) # Outputs: 2
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
 
 
