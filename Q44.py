@@ -51,4 +51,4 @@ print(f"Prime number just smaller than {number}: {prime}")
 print(f"Perfect number just smaller than {number}: {perfect}")
 print(f"Armstrong number just smaller than {number}: {armstrong}")
 
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
