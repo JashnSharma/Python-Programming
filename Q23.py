@@ -14,4 +14,4 @@ if is_a_perfect_number(number):
     print(f"{number} is a perfect number.")
 else:
     print(f"{number} is not a perfect number.")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
