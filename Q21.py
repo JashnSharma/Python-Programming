@@ -2,4 +2,4 @@
 name="Alice"
 age=30
 print(f"Name: {name}, Age: {age}")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
