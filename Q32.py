@@ -12,4 +12,4 @@ for i in range(low_limit,upp_limit +1):
         counter = counter + 1
         print(f"counter: {counter}")
 
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
