@@ -15,4 +15,4 @@ print(f"{a} >= {b} : {a >= b}")
 #Less than or equal to
 print(f"{a} <= {b} : {a <= b}")
 
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
