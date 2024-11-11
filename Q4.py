@@ -12,4 +12,4 @@ for i in range(5):
 #call the function to see the output
 my_function()
 my_other_function()
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
