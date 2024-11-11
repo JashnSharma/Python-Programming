@@ -11,9 +11,7 @@ elif (c>a) & (c>b):
 else:
     print("all are equal")
 
-print("Program by Diya Bhutani - 0221BCA041")
-
-    
+print("Program by jashn sharma - 0221BCA048")
 
     
 
