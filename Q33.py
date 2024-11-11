@@ -15,4 +15,4 @@ while count<y:
           count+=1
 
 print(f"Count: {count}")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
