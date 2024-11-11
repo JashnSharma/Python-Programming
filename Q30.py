@@ -47,4 +47,4 @@ for i in range(4, 0, -1):
     print(" " * (5 - i) + "* " * i)
 
 
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
