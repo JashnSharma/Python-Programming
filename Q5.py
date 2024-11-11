@@ -42,5 +42,4 @@ print(f"The diffrence of {x} and {y} is {subtract(x,y)}")  #Subtraction
 '''
 End of the script: Demonstrated single- line comments, multi-line comments, and docstrings
 '''
-
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
