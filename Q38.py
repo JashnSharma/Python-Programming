@@ -19,7 +19,7 @@ start=int(input("Enter the start of the range:"))
 end=int(input("Enter the end of the range:"))
 result= sum_of_cubes_of_primes(start,end)
 print(f"The sum of cubes of all prime numbers between {start} and {end} is {result}")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
 
 
             
