@@ -38,4 +38,4 @@ elif marks >= 40 :
 else:
     print(" Your grade is D \n you are fail")
 
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
