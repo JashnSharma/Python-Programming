@@ -7,4 +7,4 @@ except ValueError:
     print("Error: Invalid input. Please enter a valid number")
 else:
     print(f"The result is: {result}")
-print("Program by Diya Bhutani - 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
