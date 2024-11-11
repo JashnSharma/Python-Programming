@@ -6,4 +6,4 @@ print("First element:", first_element) # Outputs: a
 print("Last element:", last_element) # Outputs: e
 print("Sliced list:", sub_list) # Outputs: ['b', 'c', 'd']
 
-print("program by Diya Bhutani- 0221BCA041")
+print("Program by jashn sharma - 0221BCA048")
